@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Sarala");
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #f1ede7;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    width: 100%;
+    background-color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.logo {
+    width: 35px;
+    margin: 10px;
+}
+
+#container {
+    text-align: center;
+}
+
+
+#username {
+    color: hotpink;
+    margin-bottom: 30px;
+}
+
+h4 {
+    display: inline-block;
+}
+
+.uu {
+    margin: 10px;
+}
+
+.success {
+    width: 100px;
+}
+
+#success_container {
+    text-align: center;
+    display: none;
+}
